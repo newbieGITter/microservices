@@ -63,13 +63,12 @@
 			<scope>runtime</scope>
 		</dependency>
 
-		<!-- Guava -->
-
+		<!-- Guava
 		<dependency>
 			<groupId>com.google.guava</groupId>
 			<artifactId>guava</artifactId>
 			<version>${guava.version}</version>
-		</dependency>
+		</dependency> -->
 
 		<!-- Java EE -->
 
